@@ -1,0 +1,2 @@
+# Protocols: Interjections
+## Short exclamation.
