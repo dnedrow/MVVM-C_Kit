@@ -109,7 +109,6 @@ Packages
 .build/
 xcuserdata
 DerivedData/
-*.xcodeproj
 
 ### Vim ###
 # Swap
