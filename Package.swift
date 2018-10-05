@@ -24,5 +24,6 @@ let package = Package(
         .testTarget(
             name: "MVVM-C_KitTests",
             dependencies: ["MVVM-C_Kit"]),
-    ]
+    ],
+    swiftLanguageVersions: [.v4, .v4_2]
 )
