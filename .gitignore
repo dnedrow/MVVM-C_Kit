@@ -136,3 +136,4 @@ tags
 
 # End of https://www.gitignore.io/api/vim,macos,clion+iml,swiftpm
 /.idea/markdown-exported-files.xml
+/.idea/markdown-history.xml
