@@ -12,11 +12,11 @@
 .idea/**/shelf
 
 # Markdown Navigator Plugin for JetBrains IDEs
-./idea/**/markdown-navigator
-./idea/**/markdown-navigator.xml
+.idea/**/markdown-navigator
+.idea/**/markdown-navigator.xml
 
 # Atlassian Plugin for Jetbrains IDEs
-./idea/**/atlassian-ide-plugin.xml
+.idea/**/atlassian-ide-plugin.xml
 
 # Generated files
 .idea/**/contentModel.xml
