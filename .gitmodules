@@ -1,0 +1,3 @@
+[submodule "Documentation/MVVM-C_Kit.wiki"]
+	path = Documentation/MVVM-C_Kit.wiki
+	url = git@github.com:dnedrow/MVVM-C_Kit.wiki.git
