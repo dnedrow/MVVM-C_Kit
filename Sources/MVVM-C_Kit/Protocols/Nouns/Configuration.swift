@@ -5,5 +5,5 @@
 
 import Foundation
 
-public protocol Configuration: Noun, Initializable {
+public protocol Configuration: Noun {
 }
